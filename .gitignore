@@ -1,0 +1,8 @@
+creds.py
+__pycache__/
+.idea/
+sftp-config.json
+*.log
+requirements.txt
+*.pyc
+steemenv/
