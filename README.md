@@ -22,3 +22,7 @@ This bot allows for multiple accounts to upvote your steem posts.  This code is 
 - GG
 
 - Profit!
+
+NOTE: All code is provided as is and has no guarantee.  User providing the codebase is not responsible for any outcome when using this application. 
+
+
